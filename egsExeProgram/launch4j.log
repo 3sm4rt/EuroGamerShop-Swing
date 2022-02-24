@@ -1,0 +1,14 @@
+
+
+Version:	3.12
+CmdLine:	C:\Users\3sm4rt\Desktop\egs\EuroGamerShop.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\3sm4rt\Desktop\egs\.
+Java min ver:	
+Java max ver:	
+Bundled JRE:	bin\jre1.8.0_241
+Check launcher:	C:\Users\3sm4rt\Desktop\egs\bin\jre1.8.0_241\bin\javaw.exe (OK)
+Launcher:	C:\Users\3sm4rt\Desktop\egs\bin\jre1.8.0_241\bin\javaw.exe
+Launcher args:	-jar "C:\Users\3sm4rt\Desktop\egs\EuroGamerShop.exe"
+Args length:	52/32768 chars
+Exit code:	0
